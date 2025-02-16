@@ -15,15 +15,11 @@ Building an AI-driven educational solution to address Malawi's educational chall
   - Instant feedback with detailed explanations
   - Focus on improving college readiness and admission rates
 
-## 🎯 Mission
-Working to bridge the educational gap in Malawi by:
-- Improving the current 54% national exam pass rate
-- Increasing the number of students qualifying for college education
-- Making quality education resources accessible to all students
-- Using technology to provide personalized learning at scale
+![VirtuEducate - AI-Powered Exam Prep Assistant](https://i.ibb.co/BKZHj2ZN/Screenshot-2025-02-16-at-9-59-17-PM.png)
+
 
 ## 🔭 Professional Experience
-- Previously led development at IBL Education, building AI skills platforms used by ACI Learning, Nvidia, Evermode, and Legatum
+- Previously led development at IBL AI, building AI skills platforms used by ACI Learning, Nvidia, Evermode, and Legatum
 - Implemented event-driven architectures reducing system load by 30%
 - Designed custom JS SDKs and authentication systems
 - Built scalable solutions at Primenetics and CONGOMA
