@@ -19,7 +19,7 @@ Building an AI-driven educational solution to address Malawi's educational chall
 
 
 ## 🔭 Professional Experience
-- Previously led development at IBL AI, building AI skills platforms used by ACI Learning, Nvidia, Evermode, and Legatum
+- Previously led development at IBL AI ( https://ibl.ai/ ), building AI skills platforms used by ACI Learning, Nvidia, Evermode, and Legatum
 - Implemented event-driven architectures reducing system load by 30%
 - Designed custom JS SDKs and authentication systems
 - Built scalable solutions at Primenetics and CONGOMA
