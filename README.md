@@ -15,7 +15,7 @@ Building an AI-driven educational solution to address Malawi's educational chall
   - Instant feedback with detailed explanations
   - Focus on improving college readiness and admission rates
 
-https://drive.google.com/file/d/1Kk6nQEQ5uMER72p56e1PkoQYPcvQLj8g/view
+![VirtuEducate Site](https://drive.google.com/uc?export=view&id=1Kk6nQEQ5uMER72p56e1PkoQYPcvQLj8g)
 
 
 ## 🔭 Professional Experience
