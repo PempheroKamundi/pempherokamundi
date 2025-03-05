@@ -5,6 +5,9 @@ Senior Full-Stack Software Engineer with over 5 years of experience in software 
 
 ## 🚀 Current Project: VirtuEducate
 Building an AI-driven educational solution to address Malawi's educational challenges:
+
+- You can find **screenshots of the website I am building** in the [`/images`](./images) folder. 
+
 - Tackling the low national exam pass rate through personalized learning
 - Making quality exam preparation accessible to all Malawian students
 - Using AI to provide detailed explanations and adaptive learning paths
