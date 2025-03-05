@@ -15,7 +15,7 @@ Building an AI-driven educational solution to address Malawi's educational chall
   - Instant feedback with detailed explanations
   - Focus on improving college readiness and admission rates
 
-![VirtuEducate - AI-Powered Exam Prep Assistant](https://i.ibb.co/BKZHj2ZN/Screenshot-2025-02-16-at-9-59-17-PM.png)
+![VirtuEducate - AI-Powered Exam Prep Assistant](https://drive.google.com/file/d/1Kk6nQEQ5uMER72p56e1PkoQYPcvQLj8g/view)
 
 
 ## 🔭 Professional Experience
