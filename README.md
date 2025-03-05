@@ -43,6 +43,7 @@ Building an AI-driven educational solution to address Malawi's educational chall
 - BeautifulSoup
 - Pydantic
 - Elastic Search
+- MongoDB
 
 ## 🤝 Community Involvement
 - Founder of VirtuEducate, making quality exam preparation accessible to Malawian students
