@@ -6,7 +6,8 @@ Senior Full-Stack Software Engineer with over 5 years of experience in software 
 ## 🚀 Current Project: VirtuEducate
 Building an AI-driven educational solution to address Malawi's educational challenges:
 
-- You can find **screenshots of the website I am building** in the [`/images`](./images) folder. 
+- You can find **screenshots of the website I am building** in the [`/images`](./images) folder.
+- View sample code base here : https://github.com/PempheroKamundi/performance_engine
 
 - Tackling the low national exam pass rate through personalized learning
 - Making quality exam preparation accessible to all Malawian students
