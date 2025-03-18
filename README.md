@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Kondwani Kamundi
 
 ## About Me
-Senior Full-Stack Software Engineer with over 5 years of experience in software development and system design. Currently building VirtuEducate, an AI-powered examination prep assistant helping Malawian students prepare for JCE and MSCE exams. Passionate about leveraging technology to improve education accessibility in Malawi.
+Senior Full-Stack Software Engineer with over 6 years of experience in software development and system design. Currently building VirtuEducate, an AI-powered examination prep assistant helping Malawian students prepare for JCE and MSCE exams. Passionate about leveraging technology to improve education accessibility in Malawi.
 
 ## 🚀 Current Project: VirtuEducate
 Building an AI-driven educational solution to address Malawi's educational challenges:
