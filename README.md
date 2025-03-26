@@ -4,7 +4,7 @@
 # 👋 Hi there, I'm Kondwani Kamundi  
 
 ## About Me  
-I'm a **Senior Full-Stack Software Engineer** with 6+ years of experience in software development and system design. Currently, I'm building **VirtuEducate**, an AI-powered exam prep assistant helping Malawian students prepare for **JCE and MSCE** exams. My passion lies in using technology to improve education accessibility in Malawi.  
+I'm a **Senior Full-Stack Software Engineer** with 6+ years of experience in software development and system design. Currently, I'm building **VirtuEducate**, an AI-powered exam prep assistant helping Malawian students prepare for **JCE and MSCE** exams. My passion lies in using technology to solve real world problems.
 
 - Previously led development at **IBL AI** ([ibl.ai](https://ibl.ai/)), building AI-driven skills platforms used by **ACI Learning, Nvidia, Evermode, and Legatum**.  
 
