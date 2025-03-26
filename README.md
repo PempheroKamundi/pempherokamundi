@@ -3,15 +3,14 @@
 ## About Me
 Senior Full-Stack Software Engineer with over 6 years of experience in software development and system design. Currently building VirtuEducate, an AI-powered examination prep assistant helping Malawian students prepare for JCE and MSCE exams. Passionate about leveraging technology to improve education accessibility in Malawi.
 
-## 🚀 Current Project: VirtuEducate
+- Previously led development at IBL AI ( https://ibl.ai/ ), building AI skills platforms used by ACI Learning, Nvidia, Evermode, and Legatum
+
+## Projects
+
+### 🚀 VirtuEducate
 Building an AI-driven educational solution to address Malawi's educational challenges:
+( Tackling the low national exam pass rate through personalized learning )
 
-- You can find **screenshots of the website I am building** in the [`/images`](./images) folder.
-- View sample code base here : https://github.com/PempheroKamundi/performance_engine
-
-- Tackling the low national exam pass rate through personalized learning
-- Making quality exam preparation accessible to all Malawian students
-- Using AI to provide detailed explanations and adaptive learning paths
 - Features include:
   - 10,000+ exam-style questions for JCE and MSCE students
   - AI-powered personalized study paths based on past paper patterns
@@ -19,14 +18,21 @@ Building an AI-driven educational solution to address Malawi's educational chall
   - Instant feedback with detailed explanations
   - Focus on improving college readiness and admission rates
 
-![VirtuEducate Site](https://drive.google.com/uc?export=view&id=1Kk6nQEQ5uMER72p56e1PkoQYPcvQLj8g)
+- You can find **screenshots of the website I am building** in the [`/images`](./images) folder.
+- View sample code base here : https://github.com/PempheroKamundi/performance_engine
 
+### Hours of Service Compliance Calculator
+The HOS (Hours of Service) Compliance Calculator is a web app that helps truck drivers and logistics 
+teams track driving hours, plan routes, and stay compliant with transport regulations.
 
-## 🔭 Professional Experience
-- Previously led development at IBL AI ( https://ibl.ai/ ), building AI skills platforms used by ACI Learning, Nvidia, Evermode, and Legatum
-- Implemented event-driven architectures reducing system load by 30%
-- Designed custom JS SDKs and authentication systems
-- Built scalable solutions at Primenetics and CONGOMA
+- Features include :
+
+Know about the FMSCA regulation here : https://www.fmcsa.dot.gov/regulations/hours-service/summary-hours-service-regulations
+
+View the website here : https://web-production-03ad.up.railway.app/
+View the Backend code here : https://github.com/PempheroKamundi/route_manager
+View the front end code here : https://github.com/PempheroKamundi/electronic_logger_web
+
 
 ## 💻 Technical Skills
 ### Languages & Frameworks
@@ -59,4 +65,3 @@ Building an AI-driven educational solution to address Malawi's educational chall
 - GitHub: [PempheroKamundi](https://github.com/PempheroKamundi)
 
 ---
-*"Empowering Malawian students through technology and education"*
