@@ -54,7 +54,8 @@ A **web app** that helps truck drivers and logistics teams track **driving hours
 ### **Languages & Frameworks**  
 - **Python** (Django, Flask, Pytest, Celery)  
 - **JavaScript/TypeScript** (React, Angular)  
-- **Kotlin, PHP**  
+- **Kotlin, PHP**
+- Learning GO
 
 ### **DevOps & Cloud**  
 - Docker, Kubernetes  
