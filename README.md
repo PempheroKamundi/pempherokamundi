@@ -5,6 +5,8 @@
 
 LinkedIn : https://www.linkedin.com/in/kondwani-kamundi-771517159/
 
+> In case you're wondering why my contributions on this account only date back to 2022 — my original GitHub account was compromised for a while. Although I eventually recovered it, I had already created this new account for work purposes and decided to stick with it. You can view [a snapshot of my previous profile here](https://1drv.ms/i/c/c79cff9e1cc5d2f4/EZmwXXtIUg5Jgsy7Fg6s0aYBPo51vKNBydSPPJ0uWcgBRg?e=rQh1rb) for reference. I've been coding since 2015, so this account doesn't reflect my full journey.
+
 ## About Me  
 I'm a **Senior Full-Stack Software Engineer** with 6+ years of experience in software development and system design. Currently, I'm building **VirtuEducate**, an AI-powered exam prep assistant helping Malawian students prepare for **JCE and MSCE** exams. My passion lies in using technology to solve real world problems.
 
