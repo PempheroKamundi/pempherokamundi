@@ -28,7 +28,8 @@ An AI-powered educational platform tackling Malawi’s low exam pass rates throu
 
 ### Project Resources Guide
 
-🔹 **Screenshots:** Check them out in the [`/images`](https://claude.ai/chat/images) folder.
+🔹 **Screenshots:** Check them out in the [`/images`](./images) folder.  
+
 
 🔹 **Codebase:**
 
