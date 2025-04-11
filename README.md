@@ -53,6 +53,37 @@ A **web app** that helps truck drivers and logistics teams track **driving hours
 | Currently learning **Go**                        | CI/CD Workflows                | Pydantic                         |
 | Eager to explore **Rust**                        |                                |                                  |
 
+---
+
+## 🧠 Soft Skills
+
+**Responsibility**  
+Sometimes things go wrong—when they do, I take responsibility and learn from it.
+
+**Ownership**  
+It’s never *your* thing, *your* company—it’s *ours*. That means I show up like it matters, because it does.
+
+**Caring**  
+At the end of the day, people matter. I try to never lose sight of that.
+
+**Communication**  
+I’m married—of course I had to learn to communicate 😄
+
+**Honesty & Integrity**  
+It’s never easy to say the deadline’s too tight. But I’d rather be honest than overpromise.
+
+**Adaptability**  
+We’re never perfect, so being adaptable is our best shot at getting there.
+
+**Positive Attitude**  
+My name *Kondwani* means “happy”—and yes, I definitely bring the vibes.
+
+**Problem Solving**  
+This one’s rooted in my belief system. It’s personal, but here’s the gist: I believe I can. Therefore, I will.
+
+**Work Ethic**  
+I pick work that aligns with my purpose—when it does, putting in the effort feels natural.
+
 
 ---
 
