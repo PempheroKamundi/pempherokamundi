@@ -83,7 +83,8 @@ This one’s rooted in my belief system. It’s personal, but here’s the gist:
 I pick work that aligns with my purpose—when it does, putting in the effort feels natural.
 
 **🌻 Always Learning**
-I definitely don’t know everything—no one does. But I’m wired to stay curious, ask questions, and keep growing. Currently diving deep into a BSc in Artificial Intelligence—because why not learn how to build the future?
+I definitely don’t know everything—no one does. But I’m wired to stay curious, ask questions, and keep growing. 
+Currently diving deep into a BSc in Artificial Intelligence—because why not learn how to build the future?
 
 Let me know if you want it with a different kind of vibe!
 ---
