@@ -22,12 +22,11 @@ An AI-powered educational platform tackling Malawi’s low exam pass rates throu
 [`Learn More`](https://github.com/Virtu-E)
 
 ### Project Resources Guide
-
 🔹 **Screenshots:** Check them out in the [`/images`](./images) folder.  
 🔹 **Codebase:**
 -   [VirtuEducate Performance Engine](https://github.com/PempheroKamundi/performance_engine)
 -   [Syllabus Sense](https://github.com/PempheroKamundi/syllabus_sense)
--   
+
 ---
 
 ### **Hours of Service Compliance Calculator**  
