@@ -2,13 +2,14 @@
 ---
 
 # 👋 Hi there, I'm Kondwani Kamundi  
+_Senior Full-Stack Engineer · Purpose-driven builder · Problem-solver_
 
 LinkedIn : https://www.linkedin.com/in/kondwani-kamundi-771517159/
 
 > In case you're wondering why my contributions on this account only date back to 2022 — my original GitHub account was compromised for a while. Although I eventually recovered it, I had already created this new account for work purposes and decided to stick with it. You can view [a snapshot of my previous profile here](https://1drv.ms/i/c/c79cff9e1cc5d2f4/EZmwXXtIUg5Jgsy7Fg6s0aYBPo51vKNBydSPPJ0uWcgBRg?e=rQh1rb) for reference. My coding Journey started in 2015.
 
 ## About Me  
-I'm a **Senior Full-Stack Software Engineer** with 6+ years of experience in software development and system design. Currently, I'm building **VirtuEducate**, an AI-powered exam prep assistant helping Malawian students prepare for **JCE and MSCE** exams. My passion lies in using technology to solve real world problems.
+I'm a **Senior Full-Stack Software Engineer** with 6+ years of experience in software development and system design. Currently, My passion lies in using technology to solve real-world challenges, like improving education outcomes for underserved communities.
 
 - Previously led development at **IBL AI** ([ibl.ai](https://ibl.ai/)), building AI-driven skills platforms used by **ACI Learning, Nvidia, Evermode, and Legatum**.  
 
@@ -88,7 +89,10 @@ I pick work that aligns with my purpose—when it does, putting in the effort fe
 ---
 
 ## 📫 Connect With Me  
+Feel free to reach out — I'm always open to interesting projects, collaborations, or just a good tech chat.
+
 📧 **Email:** kkamundi@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kondwani-kamundi-771517159/)
 
 ---
 
