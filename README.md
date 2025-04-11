@@ -18,18 +18,11 @@ I'm a **Senior Full-Stack Software Engineer** with 6+ years of experience in sof
 
 ### **VirtuEducate**  
 An AI-powered educational platform tackling Malawi’s low exam pass rates through **personalized learning**.  
-
-#### **Key Features**  
-✅ **10,000+ exam-style questions** for JCE & MSCE students  
-✅ **AI-driven study paths** based on past paper patterns  
-✅ **Real-time progress tracking** and performance insights  
-✅ **Instant feedback** with detailed explanations  
-✅ **Focus on college readiness & admissions**  
+[`Learn More`](https://github.com/Virtu-E)
 
 ### Project Resources Guide
 
 🔹 **Screenshots:** Check them out in the [`/images`](./images) folder.  
-
 
 🔹 **Codebase:**
 
@@ -52,36 +45,19 @@ A **web app** that helps truck drivers and logistics teams track **driving hours
 
 ## 💻 Technical Skills  
 
-### **Languages & Frameworks**  
-- **Python** (Django, Flask, Pytest, Celery)  
-- **JavaScript/TypeScript** (React, Angular)  
-- **Kotlin, PHP**
-- Learning GO
+| **Languages & Frameworks**                      | **DevOps & Cloud**             | **Databases & Tools**            |
+|--------------------------------------------------|--------------------------------|----------------------------------|
+| **Python** (Django, Flask, Pytest, Celery)       | Docker                         | PostgreSQL, MongoDB              |
+| **JavaScript/TypeScript** (React, Angular)       | AWS, GCP                       | Kafka, Elasticsearch             |
+| **Kotlin, PHP**                                  | Linux, Git/GitHub              | Playwright, BeautifulSoup        |
+| Currently learning **Go**                        | CI/CD Workflows                | Pydantic                         |
+| Eager to explore **Rust**                        |                                |                                  |
 
-### **DevOps & Cloud**  
-- Docker, Kubernetes  
-- AWS, GCP  
-- Linux, Git/GitHub  
-- CI/CD Workflows  
-
-### **Databases & Tools**  
-- PostgreSQL, MongoDB  
-- Kafka, Elasticsearch  
-- Playwright, BeautifulSoup  
-- Pydantic  
-
----
-
-## 🤝 Community Involvement  
-💡 **Founder of VirtuEducate** – Making quality exam prep accessible to Malawian students.  
-🎓 **Tech Instructor** at Global Health Informatics Institute Electronics Club, Malawi.  
-🌍 Passionate about **technology education in developing regions**.  
 
 ---
 
 ## 📫 Connect With Me  
 📧 **Email:** kkamundi@gmail.com  
-🐙 **GitHub:** [PempheroKamundi](https://github.com/PempheroKamundi)  
 
 ---
 
