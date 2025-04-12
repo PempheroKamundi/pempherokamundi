@@ -4,7 +4,7 @@
 # 👋 Hi there, I'm Kondwani Kamundi  
 _Senior Full-Stack Engineer · Purpose-driven builder · Problem-solver_
 
-Too busy to scroll? No worries — here's a sneak peek at my brain in Python → [course_sync.py](https://github.com/PempheroKamundi/pempherokamundi/blob/main/content/course_sync.py) 🧠🐍
+🚀 **Too busy to scroll?** No worries — here's a sneak peek at my brain in Python → [course_sync.py](https://github.com/PempheroKamundi/pempherokamundi/blob/main/content/course_sync.py) 🧠🐍
 
 
 LinkedIn : https://www.linkedin.com/in/kondwani-kamundi-771517159/
