@@ -4,6 +4,9 @@
 # 👋 Hi there, I'm Kondwani Kamundi  
 _Senior Full-Stack Engineer · Purpose-driven builder · Problem-solver_
 
+Too busy to scroll? No worries — here's a sneak peek at my brain in Python → [course_sync.py](https://github.com/PempheroKamundi/pempherokamundi/blob/main/content/course_sync.py) 🧠🐍
+
+
 LinkedIn : https://www.linkedin.com/in/kondwani-kamundi-771517159/
 
 > In case you're wondering why my contributions on this account only date back to 2022 — my original GitHub account was compromised for a while. Although I eventually recovered it, I had already created this new account for work purposes and decided to stick with it. You can view [a snapshot of my previous profile here](https://1drv.ms/i/c/c79cff9e1cc5d2f4/EZmwXXtIUg5Jgsy7Fg6s0aYBPo51vKNBydSPPJ0uWcgBRg?e=rQh1rb) for reference. My coding Journey started in 2015.
