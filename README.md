@@ -29,13 +29,13 @@ An AI-powered educational platform tackling Malawi’s low exam pass rates throu
 
 🔹 **Sample Codebase:**
 
--   [VirtuEducate Performance Engine](https://github.com/PempheroKamundi/performance_engine) - tracks and analyzes user performance across different difficulty levels in educational contexts. 
+-   [VirtuEducate Performance Engine](https://github.com/PempheroKamundi/performance_engine) - tracks and analyzes user performance across different difficulty levels in educational contexts. Code Highlight : 
     * 📊 **Data Engineering**: [Metrics aggregation system](https://github.com/PempheroKamundi/performance_engine/blob/main/metrics/metrics_aggregator.py#L59-L100) with clean abstractions
     * 🧩 **Design Patterns**: [Factory method](https://github.com/PempheroKamundi/performance_engine/blob/main/performance_engine.py#L142-L159) & [Strategy pattern](https://github.com/PempheroKamundi/performance_engine/blob/main/metrics/metric_types.py#L24-L37)
     * 🔄 **Extension Points**: [Plugin system](https://github.com/PempheroKamundi/performance_engine/blob/main/metrics/metrics_aggregator.py#L36-L60) for metrics registration
     * ⚠️ **Domain Modeling**: [Strong typing](https://github.com/PempheroKamundi/performance_engine/blob/main/data_types.py) with custom exception handling
       
--   [Syllabus Sense](https://github.com/PempheroKamundi/syllabus_sense) - An AI-powered tool that analyzes educational syllabi and automatically generates multiple-choice questions for assessment.
+-   [Syllabus Sense](https://github.com/PempheroKamundi/syllabus_sense) - An AI-powered tool that analyzes educational syllabi and automatically generates multiple-choice questions for assessment. Code Highlight :
     * 🏗️ **Clean Architecture**: [Template patterns](https://github.com/PempheroKamundi/syllabus_sense/blob/main/_base_syllabus_ai_graph_template.py#L68-L124) with clear abstraction layers
     * 🧠 **AI Integration**: [LLM orchestration](https://github.com/PempheroKamundi/syllabus_sense/blob/main/syllabus_ai_graph.py#L146-L187) with robust validation
     * 🔄 **Memory Optimization**: [Streaming parsers](https://github.com/PempheroKamundi/syllabus_sense/blob/main/document_parser/syllabus_parser.py#L62-L73) for efficient processing
@@ -52,7 +52,7 @@ A **web app** that helps truck drivers and logistics teams track **driving hours
 🔹 **Live Demo:** [HOS Compliance Calculator](https://web-production-03ad.up.railway.app/)  
 
 🔹 **Backend Code:** 
--   [Route Manager](https://github.com/PempheroKamundi/route_manager) - planning system that calculates optimal routes for commercial drivers
+-   [Route Manager](https://github.com/PempheroKamundi/route_manager) - planning system that calculates optimal routes for commercial drivers. Code Highlight :
     * ⚙️ **Async Architecture**: [Concurrent API calls](https://github.com/PempheroKamundi/route_manager/blob/main/routing/route_planner/standard_route_planner.py#L282-L290) with asyncio for performance
     * 🧪 **Comprehensive Testing**: [Extensive test coverage](https://github.com/PempheroKamundi/route_manager/blob/main/routing/tests/test_driver_state.py) with pytest fixtures and mocks
     * 📦 **Repository Pattern**: [Data access layer](https://github.com/PempheroKamundi/route_manager/blob/main/repository/async_/osrm_repository.py#L123-L148) with clean separation of concerns
