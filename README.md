@@ -35,14 +35,6 @@ An **AI-powered educational platform** addressing Malawi’s low exam pass rates
 🔗 [`Learn More`](https://github.com/Virtu-E)  
 
 #### 🔍 Project Highlights
-- [VirtuEducate Performance Engine](https://github.com/PempheroKamundi/performance_engine)  
-  Tracks and analyzes user performance across varying difficulty levels.  
-  **Code Highlights**:
-  - 📊 [Metrics Aggregator](https://github.com/PempheroKamundi/performance_engine/blob/main/metrics/metrics_aggregator.py#L59-L100)
-  - 🧩 [Factory](https://github.com/PempheroKamundi/performance_engine/blob/main/performance_engine.py#L142-L159) & [Strategy Patterns](https://github.com/PempheroKamundi/performance_engine/blob/main/metrics/metric_types.py#L24-L37)
-  - 🔄 [Plugin System](https://github.com/PempheroKamundi/performance_engine/blob/main/metrics/metrics_aggregator.py#L36-L60)
-  - ⚠️ [Domain Modeling](https://github.com/PempheroKamundi/performance_engine/blob/main/data_types.py)
-
 - [Syllabus Sense](https://github.com/PempheroKamundi/syllabus_sense)  
   Analyzes educational syllabi and auto-generates MCQs using LLMs.  
   **Code Highlights**:
@@ -50,7 +42,15 @@ An **AI-powered educational platform** addressing Malawi’s low exam pass rates
   - 🧠 [LLM Orchestration](https://github.com/PempheroKamundi/syllabus_sense/blob/main/syllabus_ai_graph.py#L146-L187)
   - 🔄 [Streaming Parsers](https://github.com/PempheroKamundi/syllabus_sense/blob/main/document_parser/syllabus_parser.py#L62-L73)
   - 🛡️ [Custom Error Hierarchy](https://github.com/PempheroKamundi/syllabus_sense/blob/main/exceptions.py)
-
+    
+- [VirtuEducate Performance Engine](https://github.com/PempheroKamundi/performance_engine)  
+  Tracks and analyzes user performance across varying difficulty levels.  
+  **Code Highlights**:
+  - 📊 [Metrics Aggregator](https://github.com/PempheroKamundi/performance_engine/blob/main/metrics/metrics_aggregator.py#L59-L100)
+  - 🧩 [Factory](https://github.com/PempheroKamundi/performance_engine/blob/main/performance_engine.py#L142-L159) & [Strategy Patterns](https://github.com/PempheroKamundi/performance_engine/blob/main/metrics/metric_types.py#L24-L37)
+  - 🔄 [Plugin System](https://github.com/PempheroKamundi/performance_engine/blob/main/metrics/metrics_aggregator.py#L36-L60)
+  - ⚠️ [Domain Modeling](https://github.com/PempheroKamundi/performance_engine/blob/main/data_types.py)
+    
 ---
 
 ### 🚛 Hours of Service (HOS) Compliance Calculator  
