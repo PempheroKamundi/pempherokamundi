@@ -18,15 +18,6 @@ I'm a **Senior Software Engineer** with a strong **backend focus** and full-stac
 
 ---
 
-## 📌 Quick Note on This GitHub
-
-In case you're wondering why my contributions on this account only date back to 2022 —  
-📌 My **original GitHub account was compromised**. I eventually recovered it, but had already created this new one for work, and decided to stick with it.
-
-📷 [Snapshot of my old profile](https://1drv.ms/i/c/c79cff9e1cc5d2f4/EZmwXXtIUg5Jgsy7Fg6s0aYBPo51vKNBydSPPJ0uWcgBRg?e=rQh1rb)
-
----
-
 ## 🚀 Featured Projects
 
 ### 📚 VirtuEducate  
