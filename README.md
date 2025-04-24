@@ -21,7 +21,7 @@ I'm a **Senior Software Engineer** with a strong **backend focus** and full-stac
 ## 🚀 Featured Projects
 
 ### 📚 VirtuEducate  
-An **AI-powered educational platform** addressing Malawi’s low exam pass rates through personalized learning.
+An AI-powered educational ecosystem tackling Malawi's low exam pass rates through personalized learning, community engagement, and infrastructure adaptation
 
 🔗 [`Learn More`](https://github.com/Virtu-E)  
 
