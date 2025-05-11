@@ -3,7 +3,7 @@
 **Systems Builder · Senior Backend Engineer · Frontend-Capable · Problem Solver · Purpose Driven 🚀**
 
 Too busy to scroll? No worries — here's a sneak peek at my brain in Python:  
-🧠🐍 [`course_sync.py`](https://github.com/PempheroKamundi/pempherokamundi/blob/main/content/course_sync.py)
+🧠🐍 [`course_sync.py`](https://github.com/PempheroKamundi/course-sync)
 
 ---
 
