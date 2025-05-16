@@ -24,42 +24,7 @@ I'm a **Senior Software Engineer** with a strong **backend focus** and full-stac
 An AI-powered educational ecosystem tackling Malawi's low exam pass rates through personalized learning, community engagement, and infrastructure adaptation
 
 🔗 [`Learn More`](https://github.com/Virtu-E)  
-
-#### 🔍 Project Highlights
-- [Syllabus Sense](https://github.com/PempheroKamundi/syllabus_sense)  
-  Analyzes educational syllabi and auto-generates MCQs using LLMs.  
-  **Code Highlights**:
-  - 🏗️ [Template Patterns](https://github.com/PempheroKamundi/syllabus_sense/blob/main/_base_syllabus_ai_graph_template.py#L68-L124)
-  - 🧠 [LLM Orchestration](https://github.com/PempheroKamundi/syllabus_sense/blob/main/syllabus_ai_graph.py#L146-L187)
-  - 🔄 [Streaming Parsers](https://github.com/PempheroKamundi/syllabus_sense/blob/main/document_parser/syllabus_parser.py#L62-L73)
-  - 🛡️ [Custom Error Hierarchy](https://github.com/PempheroKamundi/syllabus_sense/blob/main/exceptions.py)
-    
-- [VirtuEducate Performance Engine](https://github.com/PempheroKamundi/performance_engine)  
-  Tracks and analyzes user performance across varying difficulty levels.  
-  **Code Highlights**:
-  - 📊 [Metrics Aggregator](https://github.com/PempheroKamundi/performance_engine/blob/main/metrics/metrics_aggregator.py#L59-L100)
-  - 🧩 [Factory](https://github.com/PempheroKamundi/performance_engine/blob/main/performance_engine.py#L142-L159) & [Strategy Patterns](https://github.com/PempheroKamundi/performance_engine/blob/main/metrics/metric_types.py#L24-L37)
-  - 🔄 [Plugin System](https://github.com/PempheroKamundi/performance_engine/blob/main/metrics/metrics_aggregator.py#L36-L60)
-  - ⚠️ [Domain Modeling](https://github.com/PempheroKamundi/performance_engine/blob/main/data_types.py)
-    
----
-
-### 🚛 Hours of Service (HOS) Compliance Calculator  
-A **web app** that helps truck drivers and logistics teams track **driving hours**, plan **routes**, and stay compliant with **FMCSA regulations**.
-
-🔗 [`Live Demo`](https://web-production-03ad.up.railway.app/)  
-🔗 [`Hours of Service Rules`](https://www.fmcsa.dot.gov/regulations/hours-service/summary-hours-service-regulations)  
-
-#### 🧠 Project Highlights
-- [Route Manager Backend](https://github.com/PempheroKamundi/route_manager)  
-  **Key Features**:
-  - ⚙️ [Async API Calls](https://github.com/PempheroKamundi/route_manager/blob/main/routing/route_planner/standard_route_planner.py#L282-L290)
-  - 🧪 [Test Coverage](https://github.com/PempheroKamundi/route_manager/blob/main/routing/tests/test_driver_state.py)
-  - 📦 [Repository Pattern](https://github.com/PempheroKamundi/route_manager/blob/main/repository/async_/osrm_repository.py#L123-L148)
-  - 🚀 [Production Ready](https://github.com/PempheroKamundi/route_manager/blob/main/.pre-commit-config.yaml)
-  - 📈 [Rate Limiting](https://github.com/PempheroKamundi/route_manager/blob/main/trip_planner/views.py#L26-L39)
-
-- [Frontend Code](https://github.com/PempheroKamundi/electronic_logger_web)
+   [`See my Code`](https://github.com/Virtu-E/ve-edu-vault)
 
 ---
 
