@@ -2,8 +2,8 @@
 
 **Systems Builder · Senior Backend Engineer · Frontend-Capable · Problem Solver · Purpose Driven 🚀**
 
-Too busy to scroll? No worries — here's a sneak peek at my brain in Python:  
-🧠🐍 [`course_sync.py`](https://github.com/PempheroKamundi/course-sync)
+Too busy to scroll? No worries — take a look at my code:  
+🧠🐍 [`ve-edu-vault`](https://github.com/Virtu-E/ve-edu-vault)
 
 ---
 
