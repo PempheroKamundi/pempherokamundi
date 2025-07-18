@@ -2,8 +2,13 @@
 
 **Systems Builder · Senior Backend Engineer · Frontend-Capable · Problem Solver · Purpose Driven 🚀**
 
-Too busy to scroll? No worries — take a look at my code:  
+Too busy to scroll? No worries — take a look at my :  
+
+1. Python Code
 🧠🐍 [`ve-edu-vault`](https://github.com/Virtu-E/ve-edu-vault)
+
+2. Typescript Code
+   [`ve-edu-lab`](https://github.com/Virtu-E/ve-edu-lab)
 
 ---
 
