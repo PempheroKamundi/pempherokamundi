@@ -10,6 +10,10 @@ Too busy to scroll? No worries — take a look at my :
 2. Typescript Code
    [`ve-edu-lab`](https://github.com/Virtu-E/ve-edu-lab)
 
+3. Architecture Flow
+   [`ve-edx-auth`](https://github.com/Virtu-E/ve-edx-auth)
+                 
+
 ---
 
 ## 👨‍💻 About Me
