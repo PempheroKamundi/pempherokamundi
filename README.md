@@ -12,6 +12,9 @@ Too busy to scroll? No worries — take a look at my :
 
 3. Architecture Flow
    [`ve-edx-auth`](https://github.com/Virtu-E/ve-edx-auth)
+
+4. Personal Programming Handbook
+   [`Kondwani`s Handbook`](https://github.com/PempheroKamundi/kondwani-handbook)
                  
 
 ---
