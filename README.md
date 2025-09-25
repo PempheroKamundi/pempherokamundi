@@ -5,7 +5,7 @@
 Too busy to scroll? No worries — take a look at my :  
 
 1. Python Code
-🧠🐍 [`ve-edu-vault`](https://github.com/Virtu-E/ve-edu-vault)
+🧠🐍 [`ve-course-sync`](https://github.com/PempheroKamundi/course-sync)
 
 2. Typescript Code
    [`ve-edu-lab`](https://github.com/Virtu-E/ve-edu-lab)
