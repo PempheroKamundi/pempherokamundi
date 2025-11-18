@@ -22,7 +22,7 @@ Too busy to scroll? No worries — take a look at my :
 
 I'm a **Senior Software Engineer** with a strong **backend focus** and full-stack delivery experience. Over the past **6+ years**, I’ve designed scalable systems, built robust APIs, and contributed across the stack — from backend logic to frontend components — depending on the team’s needs.
 
-- Former Lead Engineer at **[IBL AI](https://ibl.ai/)**, where I built AI-driven learning platforms used by **ACI Learning, Nvidia, Evermode**, and **Legatum**.
+- Software Engineer at **[Nimonik](https://nimonik.com/)** - Scaling the standards document store
 - Passionate about building purposeful tech — currently tackling education inequality through AI with my project **VirtuEducate**.
 
 > 💡 Started my coding journey in **2015**
