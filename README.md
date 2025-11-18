@@ -24,7 +24,6 @@ I'm a **Senior Software Engineer** with a strong **backend focus** and full-stac
 
 - Software Engineer at **[Nimonik](https://nimonik.com/)** - Scaling the standards document store
 - Passionate about building purposeful tech — currently tackling education inequality through my project **VirtuEducate**.
-- 
 ---
 
 ## 🚀 Featured Projects
